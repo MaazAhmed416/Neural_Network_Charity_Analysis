@@ -28,4 +28,4 @@ The knowledge of machine learning and neural networks were used to create a bina
 - Some steps that were taken to improve the performance of the model include the addition of additional hidden layers, changing the activation type, changing the number of epochs and changing the number of neuron in each layer
 
 ## Summary
-
+The accuracy of our model did not acheive the objective we were trying to accomplish. By dropping additional columns/features from our data set that do not help in acheiving our results, maybe we can improve our model. Moreover, another way to improve the accuracy is by adding more data. If the data is adequate, the results will be better. 
