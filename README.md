@@ -8,3 +8,7 @@ The knowledge of machine learning and neural networks were used to create a bina
 ## Results of our analysis
 
 ### Data Preprocessing
+
+- Our targeted variable was the IS_SUCCESSFUL column
+- Most of the data was used as features for our model with the exception of a few columns that were dropped
+- We dropped the 'EIN' & 'NAME' columns since both features had little to do with the outcome
